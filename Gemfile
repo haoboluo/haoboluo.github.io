@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -9,19 +9,20 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
 
 #gem "jekyll"
-#gem "minimal-mistakes-jekyll"
+gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
 #   gem "jekyll-gist"
 #   gem "jekyll-feed"
-#   gem "jemoji"
+gem "jemoji"
+gem 'wdm', '>= 0.1.0'
 #   gem "jekyll-data"
 #   gem "jekyll-include-cache"
 #

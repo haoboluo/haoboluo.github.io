@@ -10,10 +10,10 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.16.6"
+theme                  : "minimal-mistakes-jekyll"
+#remote_theme           : "mmistakes/minimal-mistakes@4.16.6"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+port: "4001"
 # Site Settings
 locale                   : "en-US"
 title                    : "Haobo Luo"
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haobo Luo"
 description              : "To share my reading and ideas"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hoporluo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -110,7 +110,7 @@ author:
   name             : "Haobo Luo"
   avatar           : "/assets/images/bio_photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Shenzhen, Guangdong, China"
+  location         : "Shenzhen, China"
   email            : "hoporluo@outlook.com"
 
 #Site Footer
@@ -119,6 +119,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "http://github.com/hoporluo/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "hoporluo@outlook.com"
 
 
 
