@@ -109,8 +109,7 @@ analytics:
 author:
   name             : "Haobo Luo"
   avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Shenzhen, China"
+  bio              : "To share my **reading** and **thinking**."
   email            : "hoporluo@outlook.com"
 
 #Site Footer
@@ -119,9 +118,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "http://github.com/hoporluo/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "hoporluo@outlook.com"
+
 
 
 
