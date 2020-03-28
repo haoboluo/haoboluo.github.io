@@ -1,5 +1,0 @@
-main:
-  - title: "Posts"
-    url: /tree/master/docs/_posts/
-  - title: "Docs"
-    url: /tree/master/docs/_docs/
