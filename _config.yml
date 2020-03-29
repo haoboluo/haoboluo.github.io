@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'LUO, Haobo'
-description: 'To share my **reading** and **thinking**.'
-keyword: 'Books, Papers, Movies, Life.'
+title: 'LUO Haobo'
+description: ''
+keyword: ''
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,9 +24,9 @@ footer:
   since: 2020
 
 # Author 配置博主信息
-author: 'LUO, Haobo'
-nickname: 'Hopor Luo'
-bio: 'Love you'
+author: 'LUO Haobo'
+nickname: ''
+bio: 'Love Life, Love You.'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -57,6 +57,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   github: '//github.com/hoporluo'
+  email: 'hoporluo@outlook.com'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
