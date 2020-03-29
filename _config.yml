@@ -17,7 +17,7 @@ baseurl: ''
 # Navigation links
 nav:
   home: '/'
-  docs: '/tags.html'
+  tags: '/tags.html'
 
 # Footer
 footer:
