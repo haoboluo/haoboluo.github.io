@@ -17,7 +17,7 @@ baseurl: ''
 # Navigation links
 nav:
   home: '/'
-  tags: '/tags.html'
+  docs: '/tags.html'
 
 # Footer
 footer:
@@ -57,7 +57,6 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   github: '//github.com/hoporluo'
-  email: 'hoporluo@outlook.com'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
