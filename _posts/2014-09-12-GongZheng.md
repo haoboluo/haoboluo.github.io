@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '公正:该如何做是好? ([美] 迈克尔·桑德尔)'
+title: '公正:该如何做是好? (迈克尔·桑德尔)'
 date: 2014-09-12
 author: Haobo
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
