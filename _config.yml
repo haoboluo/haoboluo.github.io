@@ -23,10 +23,10 @@ nav:
 footer:
   since: 2020
 
-# Author 配置博主信息
+# Author 
 author: 'LUO Haobo'
 nickname: ''
-bio: 'Modular robots, Deep Reinforcement Learning, Artificial General Intelligence'
+bio: 'All texts have no personal feelings, but look forward to people with the same ambitions.'
 avatar: '/assets/img/profile.jpg'
 
 # Search
